@@ -1,0 +1,13 @@
+{
+  "name": "brewerdigital/magento-affiliate",
+  "description": "Magento extension for tracking affiliate purchases",
+  "type": "magento2-module",
+  "extra": {
+    "map": [
+      [
+        "*",
+        "BrewerDigital/Affiliate"
+      ]
+    ]
+  }
+}
